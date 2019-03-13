@@ -112,7 +112,7 @@ ____________________________________________________________________________-->
 ____________________________________________________________________________-->
   <para>
    <command>SET TRANSACTION</command>命令设置当前
-   会话的特性。<command>SET SESSION
+   事务的特性。<command>SET SESSION
    CHARACTERISTICS</command>设置一个会话后续事务的默认
    事务特性。在个体事务中可以用
    <command>SET TRANSACTION</command>覆盖这些默认值。
